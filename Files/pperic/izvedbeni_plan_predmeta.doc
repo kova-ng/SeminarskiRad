@@ -1,0 +1,142 @@
+
+<html
+    xmlns:o='urn:schemas-microsoft-com:office:office'
+    xmlns:w='urn:schemas-microsoft-com:office:word'
+    xmlns='http://www.w3.org/TR/REC-html40'>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2">
+<title>:: Izvedbeni plan ::</title>
+
+<style type="text/css">
+
+body
+{
+    margin: 3px;
+    font-family: Arial;
+    font-size: 10pt;
+}
+
+td
+{
+    font-size: 10pt;  
+}
+
+h2
+{
+	font-size: 12pt;
+}
+
+h3
+{
+	font-size: 10pt;
+}
+
+@page Section1{
+    size: 21cm 29.7cm;
+    margin: 2.5cm 2cm 2cm 2.5cm;
+    mso-footer:f1;
+}
+
+div.Section1 { page:Section1;}
+
+</style>
+
+</head><body>
+<div class="Section1">
+<table border="0" cellpadding="2" style="border-collapse: collapse;" bordercolor="#000000" width="100%">
+    <tr>
+        <td width="100%" height="70" align="center" style="border-bottom: 1px solid #000000">
+            <img src="http://pretinac.vvg.hr/img/vvg-logo-hr-eng.jpg" width="400" height="80" />
+        </td>
+    </tr>
+</table><br /><br />
+<p>
+	<b>STUDIJ: Informacijski sustavi (IS2), Izvanredni</b><br />
+</p>
+<p align="center" style="font-size: 12pt;">
+	<b>IZVEDBENI PLAN NASTAVE PREDMETA</b><br />
+</p>
+<table border="1" cellpadding="4" style="border-collapse: collapse;" bordercolor="#000000" width="100%">
+	<tr>
+		<td width="20%"><b>Predmet:</b></td>
+		<td widht="80%" colspan="5">Infrastruktura informacijskih sustava (2+1+1), IS135, ECTS: 5</td>
+	</tr>
+	<tr>
+		<td><b>Nositelj predmeta:</b></td>
+		<td colspan="5"></td>
+	</tr>	
+	<tr>
+		<td><b>Nastavnici i suradnici:</b></td>
+		<td colspan="5">mr.sc. Davorin Valenčić v. pred. dipl.ing.<br />
+		</td>
+	</tr>
+	<tr>
+		<td><b>Semestar:</b> zimski</td>
+		<td>Sati pred.: 30</td>
+		<td>Sati vježbe: 15</td>
+		<td>Sati sem.: 15</td>
+		<td>Ukupno: 60</td>
+		<td>ECTS bodovi: 5</td>
+	</tr>		
+</table>
+<p>
+	<b>Vrijedi od 01.10.2017. za akademsku godinu 2017/2018</b><br />
+</p>
+<h2>1. Cilj predmeta:</h2>
+<p>
+	Stjecanje znanja i vještina vezanih uz sklopovske i programske komponente informacijskih sustava, dizajniranje organizacijskih procesa i programskih rješenja koje zahtijeva poznavanje mogućnosti i ograničenja informacijskih sustava. <br />
+</p>
+<h2>2. Preduvjeti:</h2>
+<p>
+	Nema<br />
+</p>
+<h2>3. Plan realizacije predmeta, sadržaj predavanja, vježbi i seminara:</h2>
+    <h3>3.1. Nastavnik mr.sc. Davorin Valenčić v. pred. dipl.ing.:</h3> 
+    <p>
+        <table border="1" cellpadding="4" style="border-collapse: collapse;" bordercolor="#000000" width="100%">
+          <tr>
+            <td width="5%" height="20" align="center"><b>Rbr.</b></td>
+            <td width="45%" height="20" align="center"><b>Sadržaj</b></td>
+            <td width="10%" height="20" align="center"><b>Pred.</b></td>
+            <td width="10%" height="20" align="center"><b>Vj.</b></td>
+            <td width="10%" height="20" align="center"><b>Sem.</b></td>
+            <td width="10%" height="20" align="center"><b>Tjedan</b></td>
+          </tr>
+		  <tr>
+		  	<td colspan="2" align="right"><b>UKUPNO</b></td>
+		  	<td align="center"><b>0</b></td>
+		  	<td align="center"><b>0</b></td>
+		  	<td align="center"><b>0</b></td>
+		  </tr>
+		</table>
+	<br />
+	</p>
+<h2>4. Obveze studenata i način polaganja ispita:</h2>
+<p>
+	<br />
+</p>
+<h2>5. Literatura:</h2>
+<p>
+	<b>Obvezna literatura:</b><br />
+	1. Nastavni materijali<br />
+2. IT Infrastructure Architecture: Infrastructure building blocks and concepts, Publisher: Lulu.com (November 5, 2011), ISBN: 1447881281 <br />
+3. IT Systems Management, Publisher: Prentice Hall; 2 edition (February 7, 2010), ISBN: 0137025068<br />
+4. Klaus Schmidt: High Availability and Disaster Recovery - Concepts, Design, Implementation, Springer, 2006.<br />
+5. Ivanka Menken: Itil&#174; Foundation Complete Certification Kit -Study Book and eLearning Program 4th Edition, (2012)<br />
+<br /><br />
+	
+	<b>Preporučena literatura:</b><br />
+	Internet stranice proizvođača računalne opreme
+</p>
+<h2>6. Metode izvedbe predmeta:</h2>
+<p>
+	<br />
+</p>
+<h2>7. Komunikacija sa studentima:</h2>
+<p>
+	<br />
+</p>
+</div>
+</body>
+</html>
